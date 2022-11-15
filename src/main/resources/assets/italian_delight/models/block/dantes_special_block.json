@@ -1,0 +1,8 @@
+{
+  "parent": "italian_delight:custom/dante's_special",
+  "textures": {
+    "all": "italian_delight:blocks/dantes_special_top",
+    "particle": "italian_delight:blocks/dantes_special_top",
+    "0": "italian_delight:blocks/dantes_special_pizza_block"
+  }
+}

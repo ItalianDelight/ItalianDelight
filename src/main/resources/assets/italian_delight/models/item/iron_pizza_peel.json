@@ -1,0 +1,7 @@
+{
+  "parent": "italian_delight:custom/pizza_peel_2",
+  "textures": {
+    "0": "italian_delight:blocks/peel_pizza_2",
+    "particle": "italian_delight:items/peel_pizza_2"
+  }
+}
